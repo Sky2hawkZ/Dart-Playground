@@ -5,10 +5,16 @@
 	"version": "0.2.0",
 	"configurations": [
 		{
-			"name": "Dart",
-			"program": "helloWorld.dart",
+			"name": "diceEngine",
+			"type": "dart",
 			"request": "launch",
-			"type": "dart"
+			"program": "diceEngine.dart"
+		},
+		{
+			"name": "helloWorld",
+			"type": "dart",
+			"request": "launch",
+			"program": "helloWorld.dart"
 		}
 	]
 }
